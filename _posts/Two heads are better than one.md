@@ -4,7 +4,7 @@ title: Two heads are better than one
 subtitle:  Averaging along Fine-Tuning to Improve Targeted Transferability
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [adversarial example, trustworthy AI]
 comments: true
 ---
 
