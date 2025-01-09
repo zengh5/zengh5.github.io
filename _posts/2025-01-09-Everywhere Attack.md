@@ -13,7 +13,7 @@ The proposed method can be illustrated with the following figure. To fool a DNN 
 Specifically, we split the 'Bajie' image into non-overlap blocks and jointly mount a targeted attack on each block. 
 Such a strategy avoids transfer failures caused by attention inconsistency between surrogate and victim models and thus results in strong transferability.
 
-![fig1](https://github.com/zengh5/Everywhere_Attack/fig/Fig1.png)
+![fig1](https://github.com/zengh5/Everywhere_Attack/blob/main/fig/Fig1.png)
 
 ## Here is a secondary heading
 
