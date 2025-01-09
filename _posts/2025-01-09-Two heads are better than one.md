@@ -28,7 +28,7 @@ Here's a table:
 
 How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Crepe](fig/2025AAAI_Fig1.png)
 
 It can also be centered!
 
