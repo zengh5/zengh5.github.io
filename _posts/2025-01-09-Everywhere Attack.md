@@ -4,7 +4,7 @@ title: Everywhere Attack
 subtitle: Attacking Locally and Globally to Boost Targeted Transferability 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [adversarial example, trustworthy AI]
+tags: [adversarial example, trustworthy AI, 2025AAAI]
 comments: true
 ---
 
