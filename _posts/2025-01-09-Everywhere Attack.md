@@ -14,7 +14,7 @@ Specifically, we split the 'Bajie' image into non-overlap blocks and jointly mou
 Such a strategy avoids transfer failures caused by attention inconsistency between surrogate and victim models and thus results in strong transferability.
 
 <div align=center>
-  <img src="figs/2025AAAI_Fig1.png" width="750">
+  <img src="../figs/2025AAAI_Fig1.png" width="750">
 </div>
 
 ## Here is a secondary heading
