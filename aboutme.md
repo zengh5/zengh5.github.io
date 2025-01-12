@@ -30,10 +30,10 @@ Other related conferences
 -Hui Zeng, Biwei Chen, Anjie Peng, "Enhancing targeted transferability via feature space fine-tuning," 2024ICASSP, pp. 4475–4479. [paper](https://ieeexplore.ieee.org/document/10446654) [code](https://github.com/zengh5/TA_feature_FT)  
 
 #### 2023
--Hui Zeng, Biwei Chen, Rongsong Yang, et al. "Towards undetectable adversarial examples: a steganographic perspective," 2023ICONIP, pp. 172–183. [code](https://github.com/zengh5/Undetectable-attack)  
--Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, "An enhanced neuron attribution-based attack via pixel dropping," 2023ICIP, pp. 3439–3443.  
--Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, "Enhancing targeted transferability via suppressing high-confidence labels," 2023ICIP, pp. 3309–3313. [code](https://github.com/zengh5/Transferable_targeted_attack)  
--Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, "Adversarial example detection Bayesian game," 2023ICIP, pp. 1710–1714. [code](https://github.com/zengh5/AED_BGame)  
+-Hui Zeng, Biwei Chen, Rongsong Yang, et al. "Towards undetectable adversarial examples: a steganographic perspective," 2023ICONIP, pp. 172–183. [paper](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_14) [code](https://github.com/zengh5/Undetectable-attack)  
+-Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, "An enhanced neuron attribution-based attack via pixel dropping," 2023ICIP, pp. 3439–3443. [paper](https://ieeexplore.ieee.org/document/10222034)  
+-Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, "Enhancing targeted transferability via suppressing high-confidence labels," 2023ICIP, pp. 3309–3313. [paper](https://ieeexplore.ieee.org/document/10222841) [code](https://github.com/zengh5/Transferable_targeted_attack)  
+-Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, "Adversarial example detection Bayesian game," 2023ICIP, pp. 1710–1714. [paper](https://ieeexplore.ieee.org/document/10222129) [code](https://github.com/zengh5/AED_BGame)  
 -Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," 2023ICASSP, doi: 10.1109/ICASSP49357.2023.10096558 [pdf](https://ieeexplore.ieee.org/document/10096558/)  
 -Tong Zhang, Anjie Peng, Hui Zeng, "Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera," 2023ICONIP, pp 563–574, Changsha, session chair. [Paper](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43)  [Code](https://github.com/10961020/Deepfake-detector-based-on-blood-vessels)  
 -Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," 2023ICASSP. doi: 10.1109/ICASSP49357.2023.10095317 [pdf](https://ieeexplore.ieee.org/document/10095317/) [code](https://github.com/zengh5/Rotation_angle_estimation_harmonic)
