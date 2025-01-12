@@ -59,14 +59,14 @@ Other related conferences
 #### 2019
 -Zeng, Hui and Peng, Anjie and Lin, Xiaodan and Luo, Shenghai, “Source smartphone identification for digital zoomed images,” Proceedings of the ACM Turing Celebration Conference-China, pp. 1–6, 2019, ACM [paper](https://doi.org/10.1145/3321408.3326686)  
 -Wu, Jianyuan and Wang, Zheng and Zeng, Hui and Kang, Xiangui, “Multiple-Operation Image Anti-Forensics with WGAN-GP Framework,” 2019APSIPA ASC, pp. 1303–1307. [pdf](https://ieeexplore.ieee.org/document/9023173)  
-S Luo, A Peng, H Zeng, X Kang, L Liu, "Deep residual learning using data augmentation for median filtering forensics of digital images," IEEE Access, 7:80614–80621. [pdf](https://ieeexplore.ieee.org/document/8736870) **citations: 20+** 
-A Peng, S Luo, H Zeng, Y Wu, "Median filtering forensics using multiple models in residual domain," IEEE Access, 7: 28525–28538. [pdf](https://ieeexplore.ieee.org/document/8635456)  **citations: 20+**  
+-S Luo, A Peng, H Zeng, X Kang, L Liu, "Deep residual learning using data augmentation for median filtering forensics of digital images," IEEE Access, 7:80614–80621. [pdf](https://ieeexplore.ieee.org/document/8736870) **citations: 20+** 
+-A Peng, S Luo, H Zeng, Y Wu, "Median filtering forensics using multiple models in residual domain," IEEE Access, 7: 28525–28538. [pdf](https://ieeexplore.ieee.org/document/8635456)  **citations: 20+**  
 
 #### 2018 
 -Zeng, Hui, Yu, Jingjing, Kang, Xiangui and Lyu, Siwei, “Countering JPEG anti-forensics based on noise level estimation,” Science China Information Sciences, 61(3): 032103, 2018. [pdf](https://link.springer.com/article/10.1007/s11432-016-0426-1)  
 
 #### 2017 (academic gap year)
-Zeng, Hui, Zhan, Yifeng, Kang, Xiangui and Lin, Xiaodan, “Image splicing localization using PCA-based noise level estimation,” Multimedia Tools and Applications, 76(4): 4783–4799, 2017 [pdf](https://link.springer.com/article/10.1007/s11042-016-3712-8) **citations: 80+**
+-Zeng, Hui, Zhan, Yifeng, Kang, Xiangui and Lin, Xiaodan, “Image splicing localization using PCA-based noise level estimation,” Multimedia Tools and Applications, 76(4): 4783–4799, 2017 [pdf](https://link.springer.com/article/10.1007/s11042-016-3712-8) **citations: 80+**
 
 #### 2016 (got phD)
 -Zeng, Hui and Liu, Jingxian and Yu, Jingjing and Kang, Xiangui and Shi, Yun Qing and Wang, Z Jane “A framework of camera source identification Bayesian game,” IEEE transactions on cybernetics, 47(7): 1757–1768, 2016 [pdf](https://ieeexplore.ieee.org/document/7469854/)  
