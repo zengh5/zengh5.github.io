@@ -59,7 +59,7 @@ Other related conferences
 #### 2019
 -Zeng, Hui and Peng, Anjie and Lin, Xiaodan and Luo, Shenghai, “Source smartphone identification for digital zoomed images,” Proceedings of the ACM Turing Celebration Conference-China, pp. 1–6, 2019, ACM [paper](https://doi.org/10.1145/3321408.3326686)  
 -Wu, Jianyuan and Wang, Zheng and Zeng, Hui and Kang, Xiangui, “Multiple-Operation Image Anti-Forensics with WGAN-GP Framework,” 2019APSIPA ASC, pp. 1303–1307. [pdf](https://ieeexplore.ieee.org/document/9023173)  
--S Luo, A Peng, H Zeng, X Kang, L Liu, "Deep residual learning using data augmentation for median filtering forensics of digital images," IEEE Access, 7:80614–80621. [pdf](https://ieeexplore.ieee.org/document/8736870) **citations: 20+** 
+-S Luo, A Peng, H Zeng, X Kang, L Liu, "Deep residual learning using data augmentation for median filtering forensics of digital images," IEEE Access, 7: 80614–80621. [pdf](https://ieeexplore.ieee.org/document/8736870) **citations: 20+**  
 -A Peng, S Luo, H Zeng, Y Wu, "Median filtering forensics using multiple models in residual domain," IEEE Access, 7: 28525–28538. [pdf](https://ieeexplore.ieee.org/document/8635456)  **citations: 20+**  
 
 #### 2018 
