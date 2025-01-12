@@ -13,7 +13,8 @@ https://scholar.google.ca/citations?user=__LlM6MAAAAJ Google citations: 400+, H-
 Flagship conferences in our field:  
 - ICIP: IEEE International Conference on Image Processing
 - ICASSP: IEEE International Conference on Acoustics, Speech and Signal Processing
-- EI: Proc. IS&T Int’l. Symp. on Electronic Imaging: Media Watermarking, Security, and Forensics  
+- EI: Proc. IS&T Int’l. Symp. on Electronic Imaging: Media Watermarking, Security, and Forensics
+
 Other related conferences
 - ICONIP: International Conference on Neural Information Processing
 - APSIPA ASC: Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
