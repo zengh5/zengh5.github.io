@@ -51,39 +51,39 @@ Other related conferences
 
 #### 2020 (visiting at SUNY, Binghamton)
 -Morteza Darvish Morshedi Hosseini, Miroslav Goljan, and Hui Zeng, "Semi-Blind Image Resampling Factor Estimation for PRNU Computation," in Proc. IS&T Int’l. Symp. on Electronic Imaging: Media Watermarking, Security, and Forensics, 2020, pp 77-1 - 77-11 [pdf](https://library.imaging.org/ei/articles/32/4/art00008)  
--Zeng, Hui, Peng, Anjie, and Lin, Xiaodan, “Exposing Image splicing with inconsistent sensor noise levels,” Multimedia Tools and Applications, 2020, 79: 26139–26154. [pdf](https://link.springer.com/article/10.1007/s11042-020-09280-z)  
--Zeng, Hui and Wan, Yongcai and Deng, Kang and Peng, Anjie, “Source Camera Identification with Dual-Tree Complex Wavelet Transform,” IEEE Access, 8: 18874–18883 [pdf](https://ieeexplore.ieee.org/document/8966247) [code-Matlab](https://github.com/zengh5/SCI_DTCWT) [code-Python](https://github.com/zengh5/SCI_DTCWT_python) **citations: 20+**  
+-Zeng Hui, Peng Anjie, and Lin Xiaodan, “Exposing Image splicing with inconsistent sensor noise levels,” Multimedia Tools and Applications, 2020, 79: 26139–26154. [pdf](https://link.springer.com/article/10.1007/s11042-020-09280-z)  
+-Zeng Hui, Wan, Yongcai, Deng Kang, and Peng Anjie, “Source Camera Identification with Dual-Tree Complex Wavelet Transform,” IEEE Access, 8: 18874–18883 [pdf](https://ieeexplore.ieee.org/document/8966247) [code-Matlab](https://github.com/zengh5/SCI_DTCWT) [code-Python](https://github.com/zengh5/SCI_DTCWT_python) **citations: 20+**  
 -Hui Zeng, Kang Deng, Anjie Peng, "ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics," IWDW2020, Melbourne (online).[paper](https://doi.org/10.1007/978-3-030-69449-4_17)    
--Zeng, Hui, Peng, Anjie, and Kang, Xiangui, "Hiding traces of camera anonymization by Poisson blending," International Conference on Artificial Intelligence and Security (ICAIS2020), pp. 98–108, [paper](https://link.springer.com/chapter/10.1007/978-3-030-57881-7_9)
+-Zeng Hui, Peng Anjie, and Kang Xiangui, "Hiding traces of camera anonymization by Poisson blending," International Conference on Artificial Intelligence and Security (ICAIS2020), pp. 98–108, [paper](https://link.springer.com/chapter/10.1007/978-3-030-57881-7_9)
 
 #### 2019
--Zeng, Hui and Peng, Anjie and Lin, Xiaodan and Luo, Shenghai, “Source smartphone identification for digital zoomed images,” Proceedings of the ACM Turing Celebration Conference-China, pp. 1–6, 2019, ACM [paper](https://doi.org/10.1145/3321408.3326686)  
--Wu, Jianyuan and Wang, Zheng and Zeng, Hui and Kang, Xiangui, “Multiple-Operation Image Anti-Forensics with WGAN-GP Framework,” 2019APSIPA ASC, pp. 1303–1307. [pdf](https://ieeexplore.ieee.org/document/9023173)  
+-Zeng Hui, Peng Anjie, Lin Xiaodan and Luo Shenghai, “Source smartphone identification for digital zoomed images,” Proceedings of the ACM Turing Celebration Conference-China, pp. 1–6, 2019, ACM [paper](https://doi.org/10.1145/3321408.3326686)  
+-Wu Jianyuan, Wang Zheng, Zeng Hui and Kang Xiangui, “Multiple-Operation Image Anti-Forensics with WGAN-GP Framework,” 2019APSIPA ASC, pp. 1303–1307. [pdf](https://ieeexplore.ieee.org/document/9023173)  
 -S Luo, A Peng, H Zeng, X Kang, L Liu, "Deep residual learning using data augmentation for median filtering forensics of digital images," IEEE Access, 7: 80614–80621. [pdf](https://ieeexplore.ieee.org/document/8736870) **citations: 20+**  
 -A Peng, S Luo, H Zeng, Y Wu, "Median filtering forensics using multiple models in residual domain," IEEE Access, 7: 28525–28538. [pdf](https://ieeexplore.ieee.org/document/8635456)  **citations: 20+**  
 
 #### 2018 
--Zeng, Hui, Yu, Jingjing, Kang, Xiangui and Lyu, Siwei, “Countering JPEG anti-forensics based on noise level estimation,” Science China Information Sciences, 61(3): 032103, 2018. [pdf](https://link.springer.com/article/10.1007/s11432-016-0426-1)  
+-Zeng Hui, Yu Jingjing, Kang Xiangui and Lyu Siwei, “Countering JPEG anti-forensics based on noise level estimation,” Science China Information Sciences, 61(3): 032103, 2018. [pdf](https://link.springer.com/article/10.1007/s11432-016-0426-1)  
 
 #### 2017 (academic gap year)
--Zeng, Hui, Zhan, Yifeng, Kang, Xiangui and Lin, Xiaodan, “Image splicing localization using PCA-based noise level estimation,” Multimedia Tools and Applications, 76(4): 4783–4799, 2017 [pdf](https://link.springer.com/article/10.1007/s11042-016-3712-8) **citations: 80+**
+-Zeng Hui, Zhan Yifeng, Kang Xiangui and Lin Xiaodan, “Image splicing localization using PCA-based noise level estimation,” Multimedia Tools and Applications, 76(4): 4783–4799, 2017 [pdf](https://link.springer.com/article/10.1007/s11042-016-3712-8) **citations: 80+**
 
 #### 2016 (got phD)
--Zeng, Hui and Liu, Jingxian and Yu, Jingjing and Kang, Xiangui and Shi, Yun Qing and Wang, Z Jane “A framework of camera source identification Bayesian game,” IEEE transactions on cybernetics, 47(7): 1757–1768, 2016 [pdf](https://ieeexplore.ieee.org/document/7469854/)  
--Zeng, Hui and Kang, Xiangui, “Fast source camera identification using content adaptive guided image filter,” Journal of forensic sciences, 61(2): 520–526, 2016 [pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1556-4029.13017) **citations: 40+**   
--Zeng, Hui, Kang, Xiangui and Peng, Anjie, “A multi-purpose countermeasure against image anti-forensics using autoregressive model,” Neurocomputing, 189: 117–122, 2016, [paper](https://doi.org/10.1016/j.neucom.2015.12.089) **citations: 20+**  
--Zeng, Hui, “Rebuilding the credibility of sensor-based camera source identification,” Multimedia Tools and Applications, 75: 13871–13882, 2016. [paper](https://link.springer.com/article/10.1007/s11042-015-3072-9)  
+-Zeng Hui, Liu Jingxian, Yu Jingjing, Kang Xiangui, Shi Yun Qing and Wang Z Jane “A framework of camera source identification Bayesian game,” IEEE transactions on cybernetics, 47(7): 1757–1768, 2016 [pdf](https://ieeexplore.ieee.org/document/7469854/)  
+-Zeng Hui and Kang Xiangui, “Fast source camera identification using content adaptive guided image filter,” Journal of forensic sciences, 61(2): 520–526, 2016 [pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1556-4029.13017) **citations: 40+**   
+-Zeng Hui, Kang Xiangui and Peng Anjie, “A multi-purpose countermeasure against image anti-forensics using autoregressive model,” Neurocomputing, 189: 117–122, 2016, [paper](https://doi.org/10.1016/j.neucom.2015.12.089) **citations: 20+**  
+-Zeng Hui, “Rebuilding the credibility of sensor-based camera source identification,” Multimedia Tools and Applications, 75: 13871–13882, 2016. [paper](https://link.springer.com/article/10.1007/s11042-015-3072-9)  
 
 #### 2015
 -Zeng Hui, Chen Jiansheng, Kang Xiangui and Zeng Wenjun, “Removing camera fingerprint to disguise photograph source,” 2015ICIP, 1687–1691 [pdf](https://ieeexplore.ieee.org/document/7351088/) **citations: 20+**  
 
 #### 2014
--Zeng, Hui and Qin, Tengfei and Kang, Xiangui and Liu, Li, “Countering anti-forensics of median filtering,” 2014ICASSP, 2704–2708 [pdf](https://ieeexplore.ieee.org/document/6854091) **citations: 20+**  
+-Zeng Hui, Qin Tengfei, Kang Xiangui and Liu Li, “Countering anti-forensics of median filtering,” 2014ICASSP, 2704–2708 [pdf](https://ieeexplore.ieee.org/document/6854091) **citations: 20+**  
 
 #### 2013
--Zeng, Hui, Kang, Xiangui, Huang, Jiwu, “Mixed-strategy Nash equilibrium in the camera source identification game,” 2013ICIP, 4472–4476 [pdf](https://ieeexplore.ieee.org/document/6738921/)  
--Zeng, Hui, Jiang, Yunwen, Kang, Xiangui, Liu, Li, “Game theoretic analysis of camera source identification,” 2013APSIPA ASC, 1–9, 2013. [pdf](https://ieeexplore.ieee.org/document/6694150)    
--Zeng, Hui and Kang, Xiangui, “Camera source identification game with incomplete information,” International Workshop on Digital Watermarking, 192–204, 2013, (Best student paper) [pdf](https://link.springer.com/chapter/10.1007/978-3-662-43886-2_14)  
--Jiang, Yunwen, Zeng, Hui, Kang, Xiangui and Liu, Li, “The game of countering JPEG anti-forensics based on the noise level estimation,” 2013 APSIPA ASC, 1–9. [pdf](https://ieeexplore.ieee.org/document/6694156)
+-Zeng Hui, Kang Xiangui, Huang Jiwu, “Mixed-strategy Nash equilibrium in the camera source identification game,” 2013ICIP, 4472–4476 [pdf](https://ieeexplore.ieee.org/document/6738921/)  
+-Zeng Hui, Jiang Yunwen, Kang Xiangui, Liu Li, “Game theoretic analysis of camera source identification,” 2013APSIPA ASC, 1–9, 2013. [pdf](https://ieeexplore.ieee.org/document/6694150)    
+-Zeng Hui and Kang Xiangui, “Camera source identification game with incomplete information,” International Workshop on Digital Watermarking, 192–204, 2013, (Best student paper) [pdf](https://link.springer.com/chapter/10.1007/978-3-662-43886-2_14)  
+-Jiang Yunwen, Zeng Hui, Kang Xiangui and Liu Li, “The game of countering JPEG anti-forensics based on the noise level estimation,” 2013 APSIPA ASC, 1–9. [pdf](https://ieeexplore.ieee.org/document/6694156)
 
 #### 2012 (kick off the tough journey)
