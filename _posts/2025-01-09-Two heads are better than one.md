@@ -24,4 +24,4 @@ Here are the targeted transfer success rates when Resnet 50 is the surrogate, no
 | Attack |  IncV3  | Dense121 | Vgg16 |
 | :------| :-------- |:------- | :-------- |
 | CE   | 3.9/9.0/13.6 | 44.9/60.4/66.3 | 30.5/49.3/60.2 |
-| Logit| 9.1/15.8/18.7 | 70.0/74.5/78.3 | 61.9/64.1/69.3 |
+| Logit| 9.1/15.8/18.7 | 70.0/75.3/78.6 | 61.9/64.1/69.3 |
