@@ -19,13 +19,9 @@ Well, how to accomplish this goal? Inspired by Izmailov et al's work [SWA], we p
 
 [SWA] P. Izmailov, D. Podoprikhin, T. Garipov, et al., “Averaging weights leads to wider optima and better generalization,” Uncertainty in Artificial Intelligence, 2018.
 
-Here's a table:
+Here are the targeted transfer success rates when Resnet 50 is the surrogate, no fine-tuning/fine-tuning with FFT / AaF:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
+| Attack |  IncV3  | Dense121 | Vgg16 |
+| :------| :-------- |:------- | :-------- |
+| CE   | 3.9/9.0/13.6 | 44.9/60.4/66.3 | 30.5/49.3/60.2 |
+| Logit| 9.1/15.8/18.7 | 70.0/74.5/78.3 | 61.9/64.1/69.3 |
