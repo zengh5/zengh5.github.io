@@ -19,7 +19,7 @@ Such a strategy avoids transfer failures caused by attention inconsistency betwe
 
 ## Experiments
 
-Results on CNNs (surrogate: res50):
+Results on CNNs w.o./w. the proposed *everywhere* scheme (surrogate: res50):
 
 | Attack |  IncV3  | Dense121 | Vgg16 |
 | :------| :-------- |:------- | :-------- |
