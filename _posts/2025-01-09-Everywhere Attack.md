@@ -24,11 +24,11 @@ Results on CNNs w.o./w. the proposed *everywhere* scheme (surrogate: res50):
 | Attack |  IncV3  | Dense121 | Vgg16 |
 | :------| :-------- |:------- | :-------- |
 | CE   | 3.9/14.1 | 44.9/62.3 | 30.5/55.2 |
-| Logit| 9.1/22.3 | 70.0/78.5 | 61.9/69.3 |
-| Margin| 10.9/21.7 | 70.8/80.8 | 61.2/69.4 |
-| SH   | 9.9/17.8 | 74.2/82.7 | 62.5/78.2 |
-| SU   | 11.1/21.9 | 72.5/79.2 | 63.9/67.4 |
-| CFM   | 41.4/55.3 | 83.3/87.7 | 77.2/81.9 |
+| [Logit](https://github.com/ZhengyuZhao/Targeted-Tansfer)| 9.1/22.3 | 70.0/78.5 | 61.9/69.3 |
+| [Margin](https://github.com/WJJLL/Target-Attack)| 10.9/21.7 | 70.8/80.8 | 61.2/69.4 |
+| [SH](https://github.com/zengh5/Transferable_targeted_attack)   | 9.9/17.8 | 74.2/82.7 | 62.5/78.2 |
+| [SU](https://github.com/zhipeng-wei/Self-Universality)   | 11.1/21.9 | 72.5/79.2 | 63.9/67.4 |
+| [CFM](https://github.com/dreamflake/CFM)   | 41.4/55.3 | 83.3/87.7 | 77.2/81.9 |
 
 Results on Vits (surrogate: res50):
 
