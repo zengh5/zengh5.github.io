@@ -17,48 +17,35 @@ Such a strategy avoids transfer failures caused by attention inconsistency betwe
   <img src="../../figs/2025AAAI_Fig1.png" width="750">
 </div>
 
-## Here is a secondary heading
+## Experiments
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+Results on CNNs (surrogate: res50):
 
-Here's a table:
+| Attack |  IncV3  | Dense121 | Vgg16 |
+| :------| :-------- |:------- | :-------- |
+| CE   | 3.9/14.1 | 44.9/62.3 | 30.5/55.2 |
+| Logit| 9.1/22.3 | 70.0/78.5 | 61.9/69.3 |
+| Margin| 10.9/21.7 | 70.8/80.8 | 61.2/69.4 |
+| SH   | 9.9/17.8 | 74.2/82.7 | 62.5/78.2 |
+| SU   | 11.1/21.9 | 72.5/79.2 | 63.9/67.4 |
+| CFM   | 41.4/55.3 | 83.3/87.7 | 77.2/81.9 |
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Results on Vits (surrogate: res50):
 
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+| Attack |  vit_b  | pit_b | visformer |
+| :------| :-------- |:------- | :-------- |
+| CE   | 0.6/3.7 | 2.0/3.5 | 4.8/15.3 |
+| Logit| 2.7/9.2 | 6.0/13.4 | 16.0/32.2 |
+| Margin| 4.8/6.4 | 7.6/9.3 | 19.5/28.4 |
+| SH   | 3.7/6.6 | 7.3/18.8 | 20.1/36.1 |
+| SU   | 5.0/5.3 | 4.8/12.9 | 20.0/29.6 |
 
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** For vits, the original images are first resampled to 224 x 224 pixels and then attacked.
 
-### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
 
-### Error
 
-{: .box-error}
-**Error:** This is an error box.
 
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
